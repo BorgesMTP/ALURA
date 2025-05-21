@@ -2,4 +2,4 @@
 #### Repositório dedicado aos projetos dos cursos da plataforma on-line ALURA
 ---
 ## A partir do zero: Iniciante em programação:
-  1. [Sorteador de números]()
+  1. [Sorteador de números](https://github.com/BorgesMTP/ALURA/tree/main/sorteador-numeros)
