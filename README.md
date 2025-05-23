@@ -5,3 +5,4 @@
   1. [Número secreto](https://github.com/BorgesMTP/ALURA/tree/main/numero-secreto)
   ### Praticando lógica de programação com desafios:
   1. [Sorteador de números](https://github.com/BorgesMTP/ALURA/tree/main/sorteador-numeros)
+  2. [AluGames](https://github.com/BorgesMTP/ALURA/tree/main/alugames)
