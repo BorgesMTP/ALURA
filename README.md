@@ -9,9 +9,13 @@
   3. [Carrinho de Compras](https://github.com/BorgesMTP/ALURA/tree/main/carrinho-compras)
   4. [Ingresso Online](https://github.com/BorgesMTP/ALURA/tree/main/ingresso)
   5. [Amigo Secreto]()
+  ### Python: Crie sua primeira aplicação
+  1. [Sabor Express](https://github.com/BorgesMTP/ALURA/tree/main/PYTHON_CRIE%20A%20SUA%20PRIMEIRA%20APLICA%C3%87%C3%83O)
 ```mermaid
 timeline
     section JavaScript
       Entendendo a lógica de programação : Número Secreto
       Praticando lógica de programação com desafios : Sorteador de números : Alugames : Carrinho de compras : Ingresso Online : Amigo Secreto
+    section Python
+      Python, crie sua primeira aplicação : Sabor Express
 ```
